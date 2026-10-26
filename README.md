@@ -2,6 +2,14 @@
 
 Aplicativo para Windows que repete uma sequência configurável de teclas enquanto a janela escolhida está em primeiro plano.
 
+## Download para Windows
+
+[**Baixar MacroL2.zip**](https://github.com/arilsonbc/MacroL2/releases/latest/download/MacroL2.zip)
+
+Extraia o ZIP e abra **Iniciar.cmd**. Não precisa instalar Python nem baixar o código pelo botão Code.
+
+[Ver versões e arquivos de verificação](https://github.com/arilsonbc/MacroL2/releases)
+
 ## Usar
 
 1. Baixe o projeto, extraia os arquivos e abra `Iniciar.cmd`.
