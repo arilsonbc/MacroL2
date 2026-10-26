@@ -1,0 +1,29 @@
+MACRO L2 — Windows
+
+1. Abra Iniciar.cmd. Não precisa instalar bibliotecas.
+2. Edite a sequência: uma tecla e um intervalo após ela por linha.
+   F1, 800
+   F2, 1000
+   F3, 1500
+3. Informe um trecho do título da janela do jogo (por exemplo: Lineage).
+4. Salve a configuração. Deixe o programa aberto e volte ao jogo.
+5. Clique no campo do atalho e pressione a combinação desejada.
+   O atalho escolhido liga/desliga. Não existe tecla F12 reservada.
+
+Na primeira execução, os campos começam vazios. Se você salvar sua
+configuração, ela será recuperada nas próximas aberturas.
+O aplicativo abre sem exigir que você configure um atalho antes.
+
+A sequência se repete até ser desligada. Ao trocar de janela, pausa;
+ao voltar ao jogo, continua. Desligue antes de usar o chat do jogo:
+o programa não distingue o chat da interface de combate.
+
+Este aplicativo repete teclas; selecione o alvo no próprio jogo.
+Não escolhe jogadores, não lê memória e não contorna anticheat.
+Alguns clientes bloqueiam teclas simuladas. Compatibilidade com o seu
+servidor e cliente ainda precisa ser testada. Confira as regras do servidor:
+automação pode ser proibida e resultar em punição da conta.
+
+Use primeiro em um ambiente de teste permitido. O envio das teclas foi
+implementado com a API SendInput do Windows. Não execute como administrador
+por padrão. Fechar a janela encerra o macro. Intervalo mínimo: 50 ms.
